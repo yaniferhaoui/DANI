@@ -1,9 +1,9 @@
 ![Logo of Ethereum](ethereum-logo.png)
 
-[DANI TOKEN](https://ropsten.etherscan.io/address/0x0365eA4a29b32f52289B5fddB1C5AaEC04C1e08D) - Ropsten Etherscan
+[DANI2 TOKEN](https://ropsten.etherscan.io/address/0x0365eA4a29b32f52289B5fddB1C5AaEC04C1e08D) - Ropsten Etherscan
 ========
 
-Your hard work is about to become easier with **DANI TOKEN**
+Your hard work is about to become easier with **DANI2 TOKEN**
 
 It ain't much, but it's honest work.
 
@@ -19,7 +19,7 @@ Setup et configuration
 * Création de l'environement : mkdir DANI2 && cd DANI2
 * Initialisation : truffle init
 * Création du smart contract DANI Token : touch contracts/DANI2.sol
-* Modification du deploy contract : https://www.trufflesuite.com/tutorials/robust-smart-contracts-with-openzeppelin#compiling-and-deploying-the-smart-contract
+* Modification du deploy contract et migration vers ganache : https://www.trufflesuite.com/tutorials/robust-smart-contracts-with-openzeppelin#compiling-and-deploying-the-smart-contract
 * Modification du trufflue-config : https://www.trufflesuite.com/tutorials/using-infura-custom-provider
 
 Avant la migration
